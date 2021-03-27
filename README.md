@@ -1,2 +1,2 @@
-# Wissenschaftliches-Rechnen
-Hausaufgaben
+# Wissenschaftliches Rechnen
+Darstellung der Hausaufgaben für den Modul Wissenschaftliches Rechnen im Wintersemester 19/20. Die Aufgaben waren von jeder/m Studierenden einzeln zu bearbeiten und abzugeben. Der Modul stellt Grundlagen des wissenschaftlichen Rechnens (Gleitkommazahlen, lineare Gleichungssysteme, lineare Ausgleichsrechnung, nichtlineare Gleichungen, Eigenwerte, Approximation und Interpolation, numerische Quadratur, Fourierreihen und FFT, gewöhnliche Differentialgleichung.)
